@@ -27,5 +27,7 @@
 1. **Clone Repository:**
 
 ```bash
-git clone https://github.com/username/BlueTorHelper.git
-cd BlueTorHelper
+git clone https://github.com/username/blueTorHelper.git
+cd blueTorHelper
+sudo chmod +x blueTorHelper.sh
+sudo ./blueTorHelper.sh
