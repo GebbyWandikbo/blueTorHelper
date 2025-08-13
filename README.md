@@ -1,28 +1,29 @@
 # 🌀 Blue Tor Helper
 
-**Blue Tor Helper** adalah script bash sederhana untuk membantu kamu dalam mengelola layanan **TOR** di sistem Linux. Dengan tampilan CLI yang interaktif, script ini akan memeriksa apakah TOR sudah terinstal, serta memberikan opsi untuk mengaktifkannya dengan mudah.
+**Blue Tor Helper** is a simple bash script to help you manage TOR services on a Linux system.
+With an interactive CLI interface.
 
 ---
 
-## 📌 Fitur
+## 📌 Features
 
-- Mengecek apakah layanan TOR sudah diinstal.
-- Menginstal TOR jika belum tersedia.
-- Mengaktifkan layanan TOR jika belum aktif.
-- Tampilan spinner sebagai indikator proses.
-- Interface berbasis pertanyaan (prompt interaktif).
-- Cek status layanan TOR menggunakan `systemctl`.
-
----
-
-## 📂 Struktur File
-
-- `BlueTorHelper.sh` — Script utama.
-- `README.md` — Penjelasan dan dokumentasi tool ini.
+- Check if the TOR service is already installed.
+- Install TOR if it is not yet available.
+- Start the TOR service if it is not active.
+- Display a spinner as a process indicator.
+- Question-based interface (interactive prompts).
+- Check TOR service status using systemctl.
 
 ---
 
-## 🔧 Cara Penggunaan
+## 📂 File Struktur 
+
+- BlueTorHelper.sh — Main script.
+- README.md — Explanation and documentation for this tool.
+
+---
+
+## 🔧 How to use
 
 1. **Clone Repository:**
 
